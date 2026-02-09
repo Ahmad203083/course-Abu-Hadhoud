@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Problem_30_Sum_of_2_Arrays_to_a_Third_one.vcxproj" />
+</Solution>

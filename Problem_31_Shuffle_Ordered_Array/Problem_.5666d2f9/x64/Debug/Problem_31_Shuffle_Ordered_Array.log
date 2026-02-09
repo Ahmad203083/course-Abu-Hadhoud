@@ -1,0 +1,3 @@
+﻿  Problem_31_Shuffle_Ordered_Array.cpp
+D:\AhmadGharabli\source\repos\Problem_31_Shuffle_Ordered_Array\Problem_31_Shuffle_Ordered_Array.cpp(77,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Problem_31_Shuffle_Ordered_Array.vcxproj -> D:\AhmadGharabli\source\repos\Problem_31_Shuffle_Ordered_Array\x64\Debug\Problem_31_Shuffle_Ordered_Array.exe

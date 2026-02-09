@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Problem_29_Copy_Only_Prime_Numbers.vcxproj" Id="3fb8fb88-c0a9-4489-9efa-699938a4c1cb" />
+</Solution>

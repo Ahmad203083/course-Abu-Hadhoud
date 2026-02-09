@@ -1,0 +1,3 @@
+﻿  Problem_29_Copy_Only_Prime_Numbers.cpp
+D:\AhmadGharabli\source\repos\Problem_29_Copy_Only_Prime_Numbers\Problem_29_Copy_Only_Prime_Numbers.cpp(22,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Problem_29_Copy_Only_Prime_Numbers.vcxproj -> D:\AhmadGharabli\source\repos\Problem_29_Copy_Only_Prime_Numbers\x64\Debug\Problem_29_Copy_Only_Prime_Numbers.exe
