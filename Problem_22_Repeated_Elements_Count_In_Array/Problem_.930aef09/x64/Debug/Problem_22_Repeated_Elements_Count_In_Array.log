@@ -1,0 +1,2 @@
+﻿  Problem_22_Repeated_Elements_Count_In_Array.cpp
+D:\AhmadGharabli\source\repos\Problem_22_Repeated_Elements_Count_In_Array\Problem_22_Repeated_Elements_Count_In_Array.cpp(16,9): error C2082: redefinition of formal parameter 'arrLenghth'
