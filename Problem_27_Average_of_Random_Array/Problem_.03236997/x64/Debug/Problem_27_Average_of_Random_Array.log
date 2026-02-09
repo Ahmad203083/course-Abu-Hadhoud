@@ -1,0 +1,4 @@
+﻿  Problem_27_Average_of_Random_Array.cpp
+D:\AhmadGharabli\source\repos\Problem_27_Average_of_Random_Array\Problem_27_Average_of_Random_Array.cpp(66,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\AhmadGharabli\source\repos\Problem_27_Average_of_Random_Array\Problem_27_Average_of_Random_Array.cpp(67,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Problem_27_Average_of_Random_Array.vcxproj -> D:\AhmadGharabli\source\repos\Problem_27_Average_of_Random_Array\x64\Debug\Problem_27_Average_of_Random_Array.exe

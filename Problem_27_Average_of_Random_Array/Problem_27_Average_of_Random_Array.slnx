@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Problem_27_Average_of_Random_Array.vcxproj" Id="03236997-5317-4b80-874b-adf6bd418f0f" />
+</Solution>
