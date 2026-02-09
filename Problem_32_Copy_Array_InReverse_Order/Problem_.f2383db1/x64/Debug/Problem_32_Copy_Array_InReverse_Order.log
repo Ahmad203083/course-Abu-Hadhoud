@@ -1,0 +1,3 @@
+﻿  Problem_32_Copy_Array_InReverse_Order.cpp
+D:\AhmadGharabli\source\repos\Problem_32_Copy_Array_InReverse_Order\Problem_32_Copy_Array_InReverse_Order.cpp(73,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Problem_32_Copy_Array_InReverse_Order.vcxproj -> D:\AhmadGharabli\source\repos\Problem_32_Copy_Array_InReverse_Order\x64\Debug\Problem_32_Copy_Array_InReverse_Order.exe
